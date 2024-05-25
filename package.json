@@ -1,0 +1,12 @@
+{
+  "name": "omniboard",
+  "version": "1.0.0",
+  "description": "## This project aims to utilize MERN stack to build a progressive whiteboard that would allow the users to collaborate as well as share their thoughts without worrying about the internet connectino.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
